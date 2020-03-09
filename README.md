@@ -4,7 +4,7 @@ This repo contains my code for running a multivariate linear regression on Nevad
 
 'house_data.R' contains my code for examining and cleaning the data.
 
-'mnist_train.csv' contains the MNIST training dataset. The test dataset is excluded as the filesize is too large to store on a free Git repo.
+'MSteele_cleaned_full_data.csv' contains the cleaned data.
 
 'estimating_tax_error.ipynb' contains my Python code for running the linear regression model.
 'estimating_tax_error.ipynb - Colaboratory.pdf' is a PDF copy of this code.
