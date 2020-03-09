@@ -1,6 +1,6 @@
 # Evalating-Property-Taxes
 
-This repo contains my code for running a multivariate linear regression on Nevada housing data to detwrmine errors in tax assessments.
+This repo contains my code for running a multivariate linear regression on Arizona housing data to detwrmine errors in tax assessments.
 
 'house_data.R' contains my code in R for examining and cleaning the data.
 'house_data_rmd.htm' is a copy of this code.
