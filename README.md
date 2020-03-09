@@ -2,7 +2,8 @@
 
 This repo contains my code for running a multivariate linear regression on Nevada housing data to detwrmine errors in tax assessments.
 
-'house_data.R' contains my code for examining and cleaning the data.
+'house_data.R' contains my code in R for examining and cleaning the data.
+'house_data_rmd.htm' is a copy of this code.
 
 'MSteele_cleaned_full_data.csv' contains the cleaned data.
 
